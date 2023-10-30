@@ -1,2 +1,2 @@
 # JWT-Auth
-Create a jwt authentication for a website
+Created a full stack jwt authentication for a website
